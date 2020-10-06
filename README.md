@@ -15,6 +15,8 @@ Install the CADEG package:
 
 R CMD INSTALL CADEG_1.1.tar.gz.
 
+On windows operating systems, the package can be installed in R by 'Install package(s) from local files ...'.
+
 # Citation
 1. The citation of CADEG:
 
