@@ -10,7 +10,7 @@ Contact (E-mail): linrunmao@caas.cn
 # Requirement
 Install R (https://www.r-project.org) and R packages of VennDiagram, Biobase, limma, gplots.
 
-The example of install Biobase:
+The example of installation of 'Biobase' package:
 
 install.packages(“BiocManager”)
 
