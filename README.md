@@ -1,5 +1,5 @@
 # CADEG
-A R package for analysis of gene expression data sets.
+An R package for analysis of gene expression data sets.
 
 version 1.1
 
